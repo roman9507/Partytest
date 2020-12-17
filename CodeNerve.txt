@@ -1,12 +1,7 @@
-<p><span style="font-size: 45px;">
-oooooooooo.                          o8o        .o8  
-`888'   `Y8b                         `"'       "888  
- 888      888  .oooo.   oooo    ooo oooo   .oooo888  
- 888      888 `P  )88b   `88.  .8'  `888  d88' `888  
- 888      888  .oP"888    `88..8'    888  888   888  
- 888     d88' d8(  888     `888'     888  888   888  
-o888bood8P'   `Y888""8o     `8'     o888o `Y8bod88P" 
-                                                     
-                                                     
-                                                     
-</span></p>
+<p style="text-align: center;"><span style="font-size: 72px; color: rgb(147, 101, 184);"><span style="font-family: Impact, Charcoal, sans-serif;"><span id="k">&nbsp; &nbsp; &nbsp;</span></span></span><span style="font-size: 60px; color: rgb(147, 101, 184);"><span style="font-family: Impact, Charcoal, sans-serif;"><span id="k"><u>Сocktails_80s</u></span></span></span></p>
+<p style="text-align: center;"><span style="font-size: 60px;"><span style="font-family: Impact, Charcoal, sans-serif;"><span style="color: rgb(147, 101, 184);">&nbsp; &nbsp; <span id="k"><em>Вояж Вояж Тики</em></span><em>.......... 249р</em></span></span></span></p>
+<p style="text-align: center;"><span style="font-size: 60px;"><em><span style="font-family: Impact, Charcoal, sans-serif;"><span style="color: rgb(147, 101, 184);">&nbsp; &nbsp;<span id="k">Джингл Бэлс Тоник</span>.. 249р</span></span></em></span></p>
+<p style="text-align: center;"><span style="font-size: 60px;"><em><span style="font-family: Impact, Charcoal, sans-serif;"><span style="color: rgb(147, 101, 184);">&nbsp; &nbsp;<span id="k">Распутини</span> .................... 249р</span></span></em></span></p>
+<p style="text-align: center;"><span style="font-size: 60px;"><span style="color: rgb(147, 101, 184); font-family: Impact, Charcoal, sans-serif;"><em><span id="k">&nbsp;Вайс Сити Тики</span>.......... 249р</em></span></span></p>
+<p style="text-align: center;"><br></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size: 48px;">💓</span></p>
